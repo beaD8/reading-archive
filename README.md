@@ -8,16 +8,16 @@ This is your personal story archive — a dedicated space to track, organize, an
 
 FEATURES AND SECTIONS
 
-Total Stories: Shows the overall count of stories saved or tracked in your archive.
-Currently Reading: Lists stories you are actively reading right now; displays a message when no titles are in progress.
-Re-reading: Tracks stories you’ve read before and are going through again; empty if no re-reads are logged.
-Want to Read: Saves stories you plan to pick up in the future.
-Reading Progress: A quick visual breakdown of your reading status, including counts for:
+1. Total Stories: Shows the overall count of stories saved or tracked in your archive.
+2. Currently Reading: Lists stories you are actively reading right now; displays a message when no titles are in progress.
+3. Re-reading: Tracks stories you’ve read before and are going through again; empty if no re-reads are logged.
+4. Want to Read: Saves stories you plan to pick up in the future.
+5. Reading Progress: A quick visual breakdown of your reading status, including counts for:
 - Currently reading
 - Re-reading
 - Want to read
 - Completed / Done stories
-My Library: Your main collection — all saved AU stories are stored here for quick access.
+6. My Library: Your main collection — all saved AU stories are stored here for quick access.
 
 HOW TO USE
 
