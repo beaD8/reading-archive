@@ -17,11 +17,11 @@ FEATURES AND SECTIONS
 - Re-reading
 - Want to read
 - Completed / Done stories
-6. My Library: Your main collection — all saved AU stories are stored here for quick access.
+6. My Library: Your main collection — all saved stories are stored here for quick access.
 
 HOW TO USE
 
 1. Add Stories: Populate your library by saving stories you come across or enjoy.
 2. Update Status: Move stories between categories as you read, finish, or decide to revisit them.
 3. Track Progress: Use the progress section to see at a glance how many stories you have in each stage of reading.
-4. Organize: Keep all your favorite or planned AU stories neatly stored in one archive.
+4. Organize: Keep all your favorite or planned stories neatly stored in one archive.
